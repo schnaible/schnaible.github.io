@@ -1,16 +1,27 @@
 body {
-    background-color: lightblue;
+    background-color: #E8E8E8;
   }
   
-  h1 {
-    color: navy;
-    margin-left: 20px;
-  }
+h1 {
+color: navy;
+margin-left: 20px;
+}
 
-  .container {
-    width: 500px;
-    height: auto;
-    margin: auto;
-    outline: solid 1px black;
-    text-align:center;
-  }
+/* unvisited link */
+a:link {
+color: #336699;
+}
+/*
+/* visited link */
+a:visited {
+color: #336699;
+}
+
+
+.container {
+width: 850px;
+height: auto;
+margin: auto;
+outline: solid 1px black;
+text-align:center;
+}
