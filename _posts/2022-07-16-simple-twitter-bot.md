@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple Twitter Bot"
-date: 2022-07-17 16:10:48 -0700
+date: 2022-07-30 22:24:00 -0700
 categories: jekyll update
 ---
 
